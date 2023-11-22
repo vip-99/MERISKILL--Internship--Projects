@@ -21,3 +21,36 @@ Conclusion for improve sale;
 ! San Francisco is the top-selling city, followed by Los Angeles and New York City.focus those 3 cities for improving business and customer growth sales.
 !(' Park St San Francisco CA', 'St Seattle WA','St Atlanta GA','St San Francisco CA') Start a new business in these adress to grow the sales.
 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+ "HR ATTRITION DASHBOARD"  (https://github.com/vip-99/MERISKILL-Internship--Sales-Analysis-Dashboard---Tasks/blob/main/hr%20dashboard.pdf)
+
+Requirment of the project is to identify attrition of company in details.
+
+Import data from Excel into the Power BI desktop.
+Transform data in Power Query Editor.
+
+Insights : 
+KPI's are used for all the aggregation values like
+Total employees of the company.
+Total Attrition of the company.
+Total salary of the employees.
+Average age of the employees.
+Attrition Rate of the employees.
+And Average Salary Hike.
+
+
+Key Insights:
+1. 'Life Sciences' education field has the highest attrition compared to ll other education field.
+2. 'Sales Executive','Research Scientist','laboratory Technician'-These are the top 3 job roles.It covered almost HalfPercent roles
+Age between 29 to 39 has the more attrition (107) and age between 51 to 60 has the lowest attrition (18).
+3. The highest departments is 'Research & Developement'(56%). And lowest one is 'Human Resources'(5%).
+4. Gender wise male have more attrition than female.
+5. 70% Employee has done Over Time Work.
+6. EnvironmentSatisfaction were more in 'Research & Development' department.
+7. Marital Status employees got maximum incomes.
+8. 'Sales Executive' job roles has got highest income and lowest income got 'Sales Representative' job roles.  
