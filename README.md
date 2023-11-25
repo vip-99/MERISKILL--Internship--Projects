@@ -60,7 +60,7 @@ Key Insights:
 
 1. 'Life Sciences' education field has the highest attrition compared to ll other education field.
 
-2. 'Sales Executive','Research Scientist','laboratory Technician'-These are the top 3 job roles.It covered almost HalfPercent roles
+2. 'Sales Executive','Research Scientist','laboratory Technician'-These are the top 3 job roles.It covered almost HalfPercent roles.
 
 3. Age between 29 to 39 has the more attrition (107) and age between 51 to 60 has the lowest attrition (18).
 
