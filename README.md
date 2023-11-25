@@ -6,9 +6,10 @@ Purpose: Analyze sales data to identify trends, top-selling products, and revenu
 
 Description: In this project, you will dive into a large sales dataset to extract valuable insights. You will explore sales trends over time, identify the best-selling products, calculate revenue metrics such as total sales and profit margins, and create visualizations to present your findings effectively. This project showcases your ability to manipulate and derive insights from large datasets, enabling you to make data-driven recommendations for optimizing sales strategies.
 
-Analysis;Data cleaning process using power query, Create Meaning dashboard
+Analysis ; Data cleaning process using power query, Create Meaning dashboard
 
 Key Insight;
+
 1 December month got Maximum Sales occur.
 
 2 Macbook Pro Laptop  product has the highest Sales compared to other products.
@@ -40,7 +41,9 @@ Requirment of the project is to identify attrition of company in details.
 Import data from Excel into the Power BI desktop.
 Transform data in Power Query Editor.
 
+
 Insights : 
+
 KPI's are used for all the aggregation values like
 
 Total employees of the company.
